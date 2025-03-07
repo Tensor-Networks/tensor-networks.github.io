@@ -32,7 +32,7 @@ weight: 30
         <div class="col-12">
             <div class="listing" style="clear:both;">
                 <div class="left" style="margin-bottom: 10px;">
-                    <h3 style="text-align:center; font-style: italic;"> Upcoming Talks, Winter 2024</h3>
+                    <h3 style="text-align:center; font-style: italic;"> Upcoming Talks, Winter 2025</h3>
 </section>
 
 ---
